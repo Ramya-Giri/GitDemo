@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-03T11:48:56 EST" name="Suite" finished-at="2019-12-03T11:48:56 EST" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2019-12-03T11:48:56 EST" name="Test" finished-at="2019-12-03T11:48:56 EST" duration-ms="47">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="MobileAutomation()[pri:0, instance:qaclickacademy.AppiumTest@55740540]" started-at="2019-12-03T11:48:56 EST" name="MobileAutomation" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+        <test-method signature="MobileAutomationDummyTest2()[pri:0, instance:qaclickacademy.AppiumTest@55740540]" started-at="2019-12-03T11:48:56 EST" name="MobileAutomationDummyTest2" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomationDummyTest2 -->
+        <test-method signature="MobileAutomationDummyTest1()[pri:0, instance:qaclickacademy.AppiumTest@55740540]" started-at="2019-12-03T11:48:56 EST" name="MobileAutomationDummyTest1" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomationDummyTest1 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="WebBrowserDummyTest2()[pri:0, instance:qaclickacademy.SeleniumTest@60015ef5]" started-at="2019-12-03T11:48:56 EST" name="WebBrowserDummyTest2" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebBrowserDummyTest2 -->
+        <test-method signature="WebBrowserDummyTest1()[pri:0, instance:qaclickacademy.SeleniumTest@60015ef5]" started-at="2019-12-03T11:48:56 EST" name="WebBrowserDummyTest1" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebBrowserDummyTest1 -->
+        <test-method signature="WebBrowserUIAUtomation()[pri:0, instance:qaclickacademy.SeleniumTest@60015ef5]" started-at="2019-12-03T11:48:56 EST" name="WebBrowserUIAUtomation" finished-at="2019-12-03T11:48:56 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebBrowserUIAUtomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
