@@ -28,4 +28,10 @@ public class SeleniumTest {
 	{
 		System.out.println("WebBrowserDummyTest22");
 	}
+	
+	@Test
+	public void WebBrowserDummyTest23222()
+	{
+		System.out.println("WebBrowserDummyTest233222");
+	}
 }
