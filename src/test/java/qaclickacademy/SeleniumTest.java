@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void WebBrowserUIAUtomation()
 	{
 		System.out.println("WebBrowserUIAUtomation");
+		System.out.println("WebBrowserUIAUtomation12345");
 	}
 	
 	@Test
