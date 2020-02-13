@@ -23,4 +23,9 @@ public class SeleniumTest {
 		System.out.println("WebBrowserDummyTest2");
 	}
 
+	@Test
+	public void WebBrowserDummyTest22()
+	{
+		System.out.println("WebBrowserDummyTest22");
+	}
 }
