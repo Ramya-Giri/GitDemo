@@ -25,6 +25,12 @@ public class RESTAPITest {
 	}
 	
 	@Test
+	public void RestApiDummyTest22()
+	{
+		System.out.println("RestApiDummyTest22");
+	}
+	
+	@Test
 	public void RestApiDummyTest2()
 	{
 		System.out.println("RestApiDummyTest2");

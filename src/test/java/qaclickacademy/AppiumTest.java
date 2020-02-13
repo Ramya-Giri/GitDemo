@@ -23,4 +23,10 @@ public class AppiumTest {
 	{
 		System.out.println("MobileAutomationDummyTest2");
 	}
+	
+	@Test
+	public void MobileAutomationDummyTest22()
+	{
+		System.out.println("MobileAutomationDummyTest22");
+	}
 }
